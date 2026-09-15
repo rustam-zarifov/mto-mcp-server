@@ -1,5 +1,7 @@
 # mto-mcp-server
 
+![Demo](demo.gif)
+
 An MCP server that reconciles a piping MTO (Material Take-Off) against a
 Plant 3D SCSA export, for industrial EPC projects.
 
